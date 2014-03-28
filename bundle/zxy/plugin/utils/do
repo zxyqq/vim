@@ -1,0 +1,2 @@
+g++ -g -c -o getClipboardInfo.o getClipboardInfo.cpp
+g++ -o getClipboardInfo.exe getClipboardInfo.o -lcomctl32 -lcomdlg32 -lwinmm -ladvapi32 -lwinspool
