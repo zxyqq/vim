@@ -1,3 +1,5 @@
+" https://www.vim.org/scripts/script.php?script_id=2317
+" QuickName - The most convenient way navigating opened buffers, incremental search by name : vim online
 " =============================================================================
 " QuickName: 	The most convenient way navigating opened buffers,
 "               incremental search by name 
